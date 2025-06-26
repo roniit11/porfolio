@@ -39,7 +39,7 @@ function App() {
         </section>
         <section id="contact">
           <h2>Contact</h2>
-          <p>Email: kumargaurv.8603070@gmail.com</p>
+          <p>Email: ronitsingh2005x@gmail.com</p>
           <p>LinkedIn: <a href="" target="_blank">LinkedIn Profile</a></p>
         </section>
       </main>
